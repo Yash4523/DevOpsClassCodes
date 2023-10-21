@@ -1,7 +1,7 @@
 pipeline{
     tools{
-        jdk 'myjava'
-        maven 'mymaven1'
+        jdk 'jdk8'
+        maven 'mvn'
     }
     environment { 
 
